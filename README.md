@@ -1,4 +1,4 @@
-🌱 Akıllı Saksı Projesi (Smart Plant Pot)
+🌱 Akıllı Saksı Projesi
 
 Bu proje, bir Aloe Vera bitkisinin toprak ve ortam koşullarını izleyerek kullanıcıyla sesli ve görsel (LCD) şekilde etkileşim kurmasını sağlayan bir akıllı saksı sistemidir.
 Proje, Arduino tabanlıdır ve sensörlerden alınan veriler doğrultusunda bitkinin ihtiyaçlarını kullanıcıya bildirir.
