@@ -7,46 +7,46 @@ Proje, Arduino tabanlıdır ve sensörlerden alınan veriler doğrultusunda bitk
 
 Bu projenin amacı;
 
-Bitkinin toprak nemini,
+- Bitkinin toprak nemini
 
-Ortam sıcaklığını ve
+- Ortam sıcaklığını
 
-Ortam nemini
-
+- Ortam nemini
+  
 sensörler yardımıyla ölçmek ve bu verilere göre bitkinin durumunu sesli uyarılar ve LCD ekran çıktıları ile kullanıcıya aktarmaktır.
 Böylece bitkinin bakım süreci daha bilinçli ve etkileşimli hale getirilmiştir.
 
 🧩 Kullanılan Donanımlar
 
-Arduino Uno
+- Arduino Uno
 
-Toprak Nem Sensörü
+- Toprak Nem Sensörü
 
-DHT11 Sıcaklık & Nem Sensörü
+- DHT11 Sıcaklık & Nem Sensörü
 
-DS1302 RTC Modülü
+- DS1302 RTC Modülü
 
-DFPlayer Mini MP3 Modülü
+- DFPlayer Mini MP3 Modülü
 
-Hoparlör
+- Hoparlör
 
-I2C 16x2 LCD Ekran
+- I2C 16x2 LCD Ekran
 
-SD Kart
+- SD Kart
 
-Jumper kablolar
+- Jumper kablolar
 
 📚 Kullanılan Kütüphaneler
 
-SoftwareSerial
+- SoftwareSerial
 
-DFRobotDFPlayerMini
+- DFRobotDFPlayerMini
 
-LiquidCrystal_I2C
+- LiquidCrystal_I2C
 
-DHT
+- DHT
 
-Ds1302
+- Ds1302
 
 ⚙️ Sistem Çalışma Mantığı
 
@@ -58,10 +58,10 @@ Ortam koşulları normal olduğunda, belirli aralıklarla rastgele mırıldanma/
 
 LCD ekranda:
 
-satırda toprak nem durumu
+- satırda toprak nem durumu
 
-satırda sıcaklık ve ortam nemi bilgisi
-görüntülenir.
+- satırda sıcaklık ve ortam nemi bilgisi
+  görüntülenir.
 
 🔊 Ses Sistemi Hakkında
 
@@ -71,13 +71,8 @@ Ses içerikleri ElevenLabs kullanılarak üretilmiş olup, bitki sanki konuşuyo
 
 🎥 Proje Videosu
 
-📌 Proje tanıtım ve çalışma videosu Classroom’a yüklenmiştir.
-(GitHub için istersen buraya YouTube linki de ekleyebilirsin.)
+📌 Proje tanıtım ve çalışma videosu :
 
 👨‍💻 Geliştirici
 
-Proje Sahibi: [İsmini buraya yaz]
-
-Ders: 2209 Proje
-
-Yıl: 2025
+Proje Sahibi: Serhat ŞAHİN
