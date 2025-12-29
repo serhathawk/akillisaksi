@@ -51,9 +51,7 @@ Böylece bitkinin bakım süreci daha bilinçli ve etkileşimli hale getirilmiş
 ⚙️ Sistem Çalışma Mantığı
 
 Toprak nemi belirlenen eşik değerin altına düştüğünde bitki susadığını sesli olarak belirtir.
-
 Ortam sıcaklığı veya nemi Aloe Vera için uygun aralıkların dışına çıktığında, duruma uygun sesli uyarılar verilir.
-
 Ortam koşulları normal olduğunda, belirli aralıklarla rastgele mırıldanma/etkileşim sesleri çalınır.
 
 LCD ekranda:
